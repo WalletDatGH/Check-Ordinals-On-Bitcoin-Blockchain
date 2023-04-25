@@ -4,7 +4,6 @@ import time
 
 
 #You can change the 1 for the number of images to check on the blockchain
-
 for x in range(1):
     print(x)
     varnum = str(x)
